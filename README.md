@@ -1,4 +1,6 @@
-# PosterPlot 프로젝트
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/b35921f9-4a39-4a38-b60d-70cd5a1cafad" />
+
+# 🎬 PosterPlot
 
 AI 기반 영화 줄거리 생성과 유저 작성 시나리오 열람 기능을 제공하는 웹 플랫폼입니다.  
 프론트엔드는 React, 백엔드는 Spring Boot + Flask + MySQL, AI 생성기는 Flask와 HuggingFace 모델로 구성되어 있습니다.
