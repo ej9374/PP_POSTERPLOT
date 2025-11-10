@@ -42,7 +42,7 @@ AI 기반 영화 줄거리 생성과 유저 작성 시나리오 열람 기능을
 ---
 
 ## 사용스킬
-`Spring Boot`, `Redis`, `Spring Security`, `MySQL`, `GCP Storage`, `Docker`, `GCP`
+`Spring Boot`, `Redis`, `Spring Security`, `MySQL`, `GCP Storage`, `Docker`, `GCP VM`
 
 ---
 
